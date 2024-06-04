@@ -1,2 +1,2 @@
 # CSS
-Cascading Styling Sheets
+Cascading Style Sheets
